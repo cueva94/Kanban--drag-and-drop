@@ -34,9 +34,5 @@ agregarTarea(){
   }
   this.todo.push(this.tarea)
   this.tarea = '';
+ }
 }
-eliminarTarea(){
-  alert('hola')
-}
-}
-console.log(onclick)
